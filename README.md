@@ -6,5 +6,5 @@
   
   <img src="https://github.com/haithemnini/haithemnini/blob/main/profile-img.png" align="right" width="10%"/>
 
-Greetings! I'm Haithem Nini, an experienced developer with three years of hands-on expertise in Delphi. Specializing in Delphi programming, VCL, and FireDAC for seamless database connectivity, I bring a robust skill set to the table. Currently transitioning to Flutter, my proficiency extends to Dart programming, Flutter framework for UI development, and Firebase integration for dynamic backend features. Committed to continuous learning, I seamlessly merge Delphi expertise with Flutter's versatility, offering a unique blend of skills for innovative project solutions. Let's connect and explore the possibilities! 🔗 #Delphi #Flutter #SoftwareDevelopment #TechTransition
+Greetings! I'm Haithem Nini, a seasoned developer with three years in Delphi, VCL, FireDAC, transitioning to Flutter with expertise in Dart, Flutter UI, and Firebase. Seamlessly merging Delphi proficiency with Flutter's versatility, I offer a unique skill set for innovative projects. Let's connect and explore possibilities!
 
