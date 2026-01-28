@@ -2,5 +2,21 @@
 
   <img src="https://github.com/haithemnini/haithemnini/blob/main/profile-img.png" align="right" width="10%"/>
 
-Greetings! I'm Haithem Nini, a seasoned developer with three years in Delphi, VCL, and FireDAC, transitioning to Flutter with expertise in Dart, Flutter UI, Firebase, APIs, Git, and SQL. Seamlessly merging Delphi proficiency with Flutter's versatility, I offer a unique skill set for innovative projects. Let's connect and explore possibilities
+## Software Developer | Flutter & Delphi Specialist
+
+**Mobile App Development** • **Cross-Platform Solutions** • **Backend Integration**
+
+### 💻 Tech Stack
+- **Mobile:** Flutter, Dart, Firebase, Flutter UI/UX
+- **Desktop:** Delphi, VCL, FireDAC
+- **Backend:** REST APIs, SQL, Database Design
+- **Tools:** Git, Version Control, Agile Development
+
+### 🎯 About Me
+**Full Stack Developer** with 3+ years of experience building **cross-platform mobile applications** and enterprise desktop solutions. Specialized in **Flutter development** and **Dart programming** for modern mobile app development, combined with expertise in Delphi for robust desktop applications.
+
+As a **Software Engineer**, I focus on creating scalable architectures, seamless **Firebase integration**, and efficient **backend development** with REST APIs. Passionate about **frontend development**, **UI/UX design**, and delivering high-quality code through **Git** and agile methodologies.
+
+### 🔗 Let's Connect
+Open to collaboration on **mobile development** projects, **Flutter** applications, and innovative **cross-platform solutions**.
 
