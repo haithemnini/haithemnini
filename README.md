@@ -12,12 +12,11 @@
 - **Backend:** REST APIs, SQL, Database Design
 - **Tools:** Git, Version Control, Agile Development
 
-### 🎯 Expertise
-Full-stack developer specializing in **mobile application development** with Flutter and enterprise desktop solutions using Delphi. 3+ years building scalable applications with modern architectures.
+### 🎯 About Me
+**Full Stack Developer** with 3+ years of experience building **cross-platform mobile applications** and enterprise desktop solutions. Specialized in **Flutter development** and **Dart programming** for modern mobile app development, combined with expertise in Delphi for robust desktop applications.
+
+As a **Software Engineer**, I focus on creating scalable architectures, seamless **Firebase integration**, and efficient **backend development** with REST APIs. Passionate about **frontend development**, **UI/UX design**, and delivering high-quality code through **Git** and agile methodologies.
 
 ### 🔗 Let's Connect
-Open to collaboration on Flutter projects, mobile development, and innovative software solutions.
-
----
-**Keywords:** Flutter Developer, Dart Programming, Mobile App Development, Cross-Platform Development, Delphi Developer, Firebase Integration, REST API, SQL Database, Git, Software Engineer, Frontend Developer, Backend Developer, Full Stack Developer
+Open to collaboration on **mobile development** projects, **Flutter** applications, and innovative **cross-platform solutions**.
 
